@@ -12,5 +12,5 @@ for ina226
  *
  * Run (requires root or i2c access):
  *   sudo ./ina226
- */
 
+     
